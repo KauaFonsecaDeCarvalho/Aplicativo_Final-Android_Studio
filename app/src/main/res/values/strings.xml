@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="txt_titulo">Seja bem vindo!</string>
+    <string name="txt_button_adicionar">Adicionar Pokémon</string>
+    <string name="txt_button_remover">Remover Pokémon</string>
+    <string name="txt_button_VerTime">Ver time</string>
+    <string name="txt_edit_hint">Nome do pokémon</string>
+    <string name="txt_button_voltar">Voltar</string>
+    <string name="txt_button">Adicionar</string>
+    <string name="txt_titulo_remover">É hora de remover...</string>
+    <string name="txt_edit_hint_nome">Nome do pokémon</string>
+    <string name="txt_button_remover_pokemon">Remover</string>
+    <string name="txt_button_voltar_main">Voltar</string>
+    <string name="txt_button_voltar_vertime">Voltar</string>
+    <string name="txt_button_time2">Time 2</string>
+    <string name="txt_button_time3">Time 3</string>
+    <string name="txt_button_time1">Time 1</string>
+    <string name="idpokemon">Id do pokémon</string>
+
+    <string-array name="Spinner_items">
+        <item>Normal</item>
+        <item>Shiny</item>
+
+    </string-array>
+</resources>
